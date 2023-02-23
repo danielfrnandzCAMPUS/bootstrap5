@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Redes';
+    src: url(fonts/SocialMediaCircled.otf);
+}
+
+span{
+    font-family: 'Redes';
+    font-size: 40px;
+}
+
